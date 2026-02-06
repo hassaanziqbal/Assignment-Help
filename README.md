@@ -13,6 +13,13 @@ We need help with:
 Any constructive help is appreciated.
 
 
+Sample:[Sample.docx](https://github.com/user-attachments/files/25133610/Sample.docx)
+
+
+Grading Structure: ![Grading](https://github.com/user-attachments/assets/d9d7ded5-0b7b-47ee-843b-b070b8214942)
+
+
+
 
 
 
